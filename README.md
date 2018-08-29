@@ -1,7 +1,15 @@
 Python ST7735
 =======================
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!! FORK DISCLAMER !!!!!!!!!!!!
+!!!! I did not test this code for now !!!
+!!!! This is a work in progress code !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! I want to add a config file in order to manage size, and GPIO directly from the config file !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Python library to control an ST7735 TFT LCD display.  Allows simple drawing on the display without installing a kernel module.
+
 
 Designed specifically to work with a ST7735 based 128x128 pixel TFT SPI display.
 
