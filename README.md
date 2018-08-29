@@ -3,7 +3,7 @@ Python ST7735
 
 Python library to control an ST7735 TFT LCD display.  Allows simple drawing on the display without installing a kernel module.
 
-Designed specifically to work with a ST7735 based 128x160 pixel TFT SPI display.
+Designed specifically to work with a ST7735 based 128x128 pixel TFT SPI display.
 
 For all platforms (Raspberry Pi and Beaglebone Black) make sure you have the following dependencies:
 
