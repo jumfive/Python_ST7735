@@ -28,7 +28,7 @@ import Adafruit_GPIO.SPI as SPI
 
 
 WIDTH = 128
-HEIGHT = 160
+HEIGHT = 128
 SPEED_HZ = 4000000
 
 
