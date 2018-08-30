@@ -36,6 +36,7 @@ sudo pip install Adafruit_BBIO
 Install the library by downloading with the download link on the right, unzipping the archive, navigating inside the library's directory and executing:
 
 ````
+git clone https://github.com/jumfive/Python_ST7735.git
 sudo python setup.py install
 ````
 
